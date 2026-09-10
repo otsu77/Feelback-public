@@ -1,7 +1,7 @@
 # FEELBACK Project
 
 ## Authors
-- Carl Premi
+- otsu
 - Colin Dufeutrelle
 - Willy Beller
 
